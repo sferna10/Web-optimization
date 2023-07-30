@@ -1,8 +1,6 @@
-# Web-optimization
+#Web-optimization
 
-![image](https://github.com/sferna10/Web-optimization/assets/139423719/b2f17efe-b5cb-48e4-b964-ae9c00ff97c3)
-
-
+!
 This is the first bootcamp Challenge that has as a goal put into practice the concepts of modifying, and committing the webpage in order to increase its accessibility for people with disabilities.
 The webpage was improved, and it can be accessible at: https://sferna10.github.io/Web-optimization/
 
